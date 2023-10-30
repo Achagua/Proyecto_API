@@ -1,0 +1,11 @@
+#ignorar modelos
+*.h5
+
+#Ignorar csv
+*.csv
+
+# Ignorar VM
+env
+
+# Ignorar VM
+__pycache__
